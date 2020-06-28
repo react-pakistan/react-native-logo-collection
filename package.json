@@ -1,7 +1,7 @@
 {
-  "name": "@taimoormk/react-native-icon-collection",
-  "version": "1.0.3",
-  "description": "React Native Icons Collection built upon React Native StoryBook",
+  "name": "@taimoormk/react-native-logo-collection",
+  "version": "1.0.0",
+  "description": "React Native Logos Collection built upon React Native StoryBook",
   "module": "index.js",
   "main": "index.js",
   "types": "index.d.tsx",
