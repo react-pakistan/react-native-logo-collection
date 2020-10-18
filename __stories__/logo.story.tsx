@@ -4,7 +4,7 @@
  */
 
 import { storiesOf } from '@storybook/react-native';
-import { Story, UseCase } from '@taimoormk/react-native-commons-collection/views';
+import { Story, UseCase } from '@react-pakistan/react-native-commons-collection/views';
 import React, { ReactElement } from 'react';
 import { LogoWrapper, StyledScrollView, StyledView, TextWrapper } from './styled';
 import { Logo } from '../src/logo';
