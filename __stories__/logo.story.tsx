@@ -3,8 +3,8 @@
  * DO NOT EDIT!
  */
 
-import { storiesOf } from '@storybook/react-native';
 import { Story, UseCase } from '@react-pakistan/react-native-commons-collection/views';
+import { storiesOf } from '@storybook/react-native';
 import React, { ReactElement } from 'react';
 import { LogoWrapper, StyledScrollView, StyledView, TextWrapper } from './styled';
 import { Logo } from '../src/logo';
