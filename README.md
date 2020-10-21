@@ -54,17 +54,17 @@ A generic, Logo library for React Native apps, following modern approach by buil
 
 ### 📌 Table of Contents 🚀
 
-<!-- - [Demo](#demo) ✨ -->
-- [Technology Stack](#technology-stack) ✨
-- [Installation](#installation) ✨
-- [Usage](#usage) ✨
-- [Styles](#styles) ✨
-- [Tested](#tested) ✨
-- [Contributors](#contributors) ✨
-- [Other Libraries from ReactPakistan](#other-libraries-from-reactpakistan) ✨
-- [Support](#support) ✨
-- [Contact](#contact) ✨
-- [Buy Me Coffee](#buy-me-coffee) ✨
+<!-- - [Demo](#-demo-) ✨ -->
+- [Technology Stack](#-technology-stack-) ✨
+- [Installation](#-installation-) ✨
+- [Usage](#-usage-) ✨
+- [Styles](#-styles-) ✨
+- [Tested](#-tested-) ✨
+- [Contributors](#-contributors-) ✨
+- [Other Libraries from ReactPakistan](#-other-libraries-from-reactpakistan-) ✨
+- [Support](#-support-) ✨
+- [Contact](#-contact-) ✨
+- [Buy Me Coffee](#-buy-me-coffee-) ✨
 
 <!-- ### 📌 Demo 🚀
 
@@ -86,7 +86,7 @@ Checkout [React Native Collection](https://react-pakistan.github.io/react-native
 - You should have React Native environment setup, prior proceeding with the following steps, if you don't please refer to [React Native Getting Started docs](https://reactnative.dev/docs/getting-started) to setup that.
 - Clone the repo
 - Cd into the project folder
-- Figure out which package manager you have on your system, then run following commands for their specific usecases.
+- Figure out which package manager you have on your system, then run following commands for their specific use cases.
 ```console
   // to install dependencies
   yarn
@@ -211,7 +211,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <div>
   <a
-    href="https://taimoormk.github.io/react-icon-collection"
+    href="https://react-pakistan.github.io/react-icon-collection"
     target="_blank"
   >
     <img
@@ -234,7 +234,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <div>
   <a
-    href="https://taimoormk.github.io/react-logo-collection"
+    href="https://react-pakistan.github.io/react-logo-collection"
     target="_blank"
   >
     <img
@@ -290,7 +290,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     />
   </a>
   <a
-    href="https://www.npmjs.com/package/@react-pakistan/react-emoji-collection"
+    href="https://www.npmjs.com/package/@react-pakistan/react-native-icon-collection"
     target="_blank"
   >
     <img
