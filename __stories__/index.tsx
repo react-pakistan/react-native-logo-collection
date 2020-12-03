@@ -1,6 +1,6 @@
 /* eslint-disable global-require, import/no-default-export */
 
-import { theme } from '@react-pakistan/react-native-commons-collection/theme';
+import { theme } from '@react-pakistan/util-react-native-functions';
 import { getStorybookUI, configure } from '@storybook/react-native';
 import React from 'react';
 import { ThemeProvider } from 'styled-components';
