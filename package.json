@@ -1,6 +1,6 @@
 {
   "name": "@react-pakistan/react-native-logo-collection",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "description": "React Native Logos Collection built upon React Native StoryBook",
   "module": "index.js",
   "main": "index.js",
