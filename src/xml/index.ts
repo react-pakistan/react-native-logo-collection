@@ -5,5 +5,6 @@
 
 export * from './bitcoin-color'
     export * from './misc-color'
+    export * from './misc-grey'
     export * from './vintage-color'
     
