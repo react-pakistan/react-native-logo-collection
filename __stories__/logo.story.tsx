@@ -221,6 +221,24 @@ storiesOf('Logo', module)
       </UseCase>
     </Story>
   ))
+.add('misc-grey', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Logo => misc-grey"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <LogoWrapper>
+              <Logo logo="MiscGrey1" color='red' />
+                <TextWrapper>
+                  MiscGrey1
+                </TextWrapper>
+              </LogoWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
 .add('vintage-color', () : ReactElement => (
     <Story>
       <UseCase
