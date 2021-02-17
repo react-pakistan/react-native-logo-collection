@@ -229,7 +229,7 @@ storiesOf('Logo', module)
         <StyledScrollView>
           <StyledView>
             <LogoWrapper>
-              <Logo logo="MiscGrey1" color='red' />
+              <Logo logo="MiscGrey1" />
                 <TextWrapper>
                   MiscGrey1
                 </TextWrapper>
