@@ -12,5 +12,5 @@ jest.config.js
 lib/
 node_modules/
 scripts/
-src/icon/
+src/logo/
 src/xml/
